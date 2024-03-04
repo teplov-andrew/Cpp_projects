@@ -1,0 +1,3 @@
+/Users/andrew/HSE/C++/reverse/cmake-build-debug/CMakeFiles/reverse.dir
+/Users/andrew/HSE/C++/reverse/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/andrew/HSE/C++/reverse/cmake-build-debug/CMakeFiles/rebuild_cache.dir
